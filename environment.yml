@@ -10,6 +10,8 @@ dependencies:
   - matplotlib
   - scikit-learn 
   - biopython
+  - bcbio-gff
+  - dna_features_viewer
   - seaborn
   - imbalanced-learn
   - category_encoders
@@ -17,4 +19,6 @@ dependencies:
   - pip
   - pip:
     - scprep
+    - phate
+    - gseapy
 
