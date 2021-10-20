@@ -6,4 +6,4 @@ plotly
 pylint
 scipy
 Scikit-learn
-os-sys
+sys
