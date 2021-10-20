@@ -9,12 +9,15 @@ dependencies:
   - scikit-learn 
   - scipy
   - biopython
+  - seaborn
   - xgboost
   - lightgbm
   - catboost
   - imbalanced-learn
   - category_encoders
   - hyperopt
+  - os
+  - scprep
   - pip
   - pip:
     - nbgitpuller
