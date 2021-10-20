@@ -14,7 +14,7 @@ dependencies:
   - imbalanced-learn
   - category_encoders
   - hyperopt
-  - os
-  - scprep
   - pip
+  - pip:
+    - scprep
 
