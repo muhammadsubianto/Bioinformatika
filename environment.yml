@@ -1,6 +1,8 @@
 name: venv
 channels:
   - conda-forge
+  - bioconda
+  - defaults
 dependencies:
   - python=3.9
   - numpy
