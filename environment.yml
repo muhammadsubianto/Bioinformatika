@@ -1,0 +1,21 @@
+name: venv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn 
+  - scipy
+  - biopython
+  - xgboost
+  - lightgbm
+  - catboost
+  - imbalanced-learn
+  - category_encoders
+  - hyperopt
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
