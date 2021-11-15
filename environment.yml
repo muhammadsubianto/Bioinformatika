@@ -16,6 +16,8 @@ dependencies:
   - imbalanced-learn
   - category_encoders
   - hyperopt
+  - chembl_webresource_client
+  - rdkit
   - pip
   - pip:
     - scprep
