@@ -18,6 +18,7 @@ dependencies:
   - hyperopt
   - chembl_webresource_client
   - rdkit
+  - skrebate
   - pip
   - pip:
     - scprep
